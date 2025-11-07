@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "driver1",
+      "description": "Portrait of a smiling man with short brown hair",
+      "imageUrl": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE1NjA4MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "driver2",
+      "description": "Portrait of a woman with blonde hair",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTU5OTgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "driver3",
+      "description": "Portrait of a man with glasses",
+      "imageUrl": "https://images.unsplash.com/photo-1627554785796-f9646d15c2da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2MTYwNDU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "driver4",
+      "description": "Portrait of a woman with dark curly hair",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTU5OTgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "driver5",
+      "description": "Portrait of a man with a beard",
+      "imageUrl": "https://images.unsplash.com/photo-1672761431773-ae6e2d054493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBiZWFyZHxlbnwwfHx8fDE3NjE1NDk1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man beard"
+    },
+    {
+      "id": "driver6",
+      "description": "Portrait of a woman smiling",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk1NTJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTY5OTQxODU2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "driver7",
+      "description": "Portrait of a man in a suit",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk1NTJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE2OTk0MTg1MTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "driver8",
+      "description": "Portrait of a woman with glasses",
+      "imageUrl": "https://images.unsplash.com/photo-1572095655453-911b3b55b2d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzk1NTJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMGdsYXNzZXMlMjBwb3J0cmFpdHxlbnwwfHx8fDE2OTk0MTg1ODF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Default user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE1NDUzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "pump-before",
+      "description": "Photo of a gas pump meter before fueling",
+      "imageUrl": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXMlMjBwdW1wfGVufDB8fHx8MTc2MTYwMjQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gas pump"
+    },
+    {
+      "id": "pump-after",
+      "description": "Photo of a gas pump meter after fueling",
+      "imageUrl": "https://images.unsplash.com/photo-1707960189849-6f63510f9e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnYXMlMjBwdW1wfGVufDB8fHx8MTc2MTYwMjQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gas pump"
+    },
+    {
+      "id": "receipt",
+      "description": "Photo of a fuel receipt",
+      "imageUrl": "https://images.unsplash.com/photo-1670261197418-40e922b570d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWNlaXB0fGVufDB8fHx8MTc2MTU0ODMzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "receipt"
+    }
+  ]
+}

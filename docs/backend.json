@@ -1,0 +1,10 @@
+
+{
+  "entities": {},
+  "auth": {
+    "providers": [
+      "password"
+    ]
+  },
+  "firestore": {}
+}
